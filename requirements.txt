@@ -3,5 +3,6 @@ uvicorn[standard]
 httpx
 langchain
 langchain-google-genai
+langchain-groq
 python-dotenv
 pytest
